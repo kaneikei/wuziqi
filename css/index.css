@@ -1,6 +1,7 @@
 body{
 	margin:0;
-	background: url(../imgs/packed-4.png);
+	background: url(../imgs/2.jpg);
+	background-size: cover
 }
 #canvas{
 	display: block;
